@@ -85,10 +85,6 @@ If you want to test with a different log file, edit the `LOG_FILE` variable at t
 
 - **Author:** [Elior Salimi](https://github.com/elior2000)
 - **Inspired by:** ThinkCyber Python Fundamentals Project
-- **Regex sources:**
-  - [Linux man pages](https://man7.org/linux/man-pages/man5/auth.log.5.html)
-  - [Community examples](https://stackoverflow.com/)
-
 ---
 
 ## License
